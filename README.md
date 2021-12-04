@@ -6,8 +6,8 @@
 
     H1B 2021 Approved & Australia PR Processing (Scored 87/90 in PTE)
 
-  - I'm a Technical Manager / SRE leader who gets, "What" and "Whom" it takes to deliver successful technology solutions with exemplary execution. I lead, partner, collaborate and leverage resources across firm to evolve our next generation platforms and effectively deliver great products for our customers. I have a passion for building high performing, diverse and empowered teams that are capable of taking ambiguous initiatives and drive them to production viability. People in organization are engaged in continually learning and knowledge sharing visible through out the firm, and consistent scoring high in employee opinion surveys and 360 degree feedbacks.
-
+  - I'm a Software Developer who gets, "What" and "Whom" it takes to deliver successful technology solutions with exemplary execution. I lead, partner, collaborate and leverage resources across firm to evolve our next generation platforms and effectively deliver great products for our customers. I have a passion for building high performing, high scale and distributed systems and drive them to production viability. 
+  
 - Leadership Highlights
 
    • Tenacity to take on and deliver large scale complex projects.
